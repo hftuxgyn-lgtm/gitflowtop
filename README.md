@@ -7,4 +7,10 @@
 5
 6 - Branch Release/0.1.0
 
+a.b.c
+A = Versão total do sistema
+B = Quantidade de funcionalidade Novas
+C = Quatidade deBuGs corrigidos
+Bug resolvido.
+
 
