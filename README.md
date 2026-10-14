@@ -12,5 +12,6 @@ A = Versão total do sistema
 B = Quantidade de funcionalidade Novas
 C = Quatidade deBuGs corrigidos
 Bug resolvido.
+Novo Bug resolvido
 
 
