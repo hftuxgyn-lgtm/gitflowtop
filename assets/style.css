@@ -1,6 +1,12 @@
-*{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    font-size: 14px;     
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.aviso {
+    display: none;
+    border: 2px solid red;
+    background-color: darkred;
+    color: white;
+    padding: 10px;
 }
